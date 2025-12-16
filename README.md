@@ -1,41 +1,60 @@
-# Olá, eu sou [WesleyC115] 👋
+# Olá, eu sou Wesley 👋
 
-## Sobre Mim
+## 🚀 Sobre Mim
 
-Sou um jovem de 21 anos apaixonado por tecnologia e atualmente estou cursando Técnico em Desenvolvimento de Sistemas. Tenho interesse em aprender e aplicar novos conhecimentos em programação, desenvolvimento de sistemas e soluções tecnológicas inovadoras.
+Sou um Desenvolvedor de Software recém-graduado como **Técnico em Desenvolvimento de Sistemas**. Tenho 21 anos e sou apaixonado por transformar problemas complexos em soluções tecnológicas eficientes.
 
-Meu foco está em continuar aprimorando minhas habilidades em **desenvolvimento web**, **lógica de programação**, e em diversas tecnologias que fazem parte do ecossistema de desenvolvimento moderno.
+Durante minha formação, desenvolvi uma base sólida em lógica de programação e arquitetura de sistemas. Atualmente, busco oportunidades para aplicar meus conhecimentos em projetos reais e colaborar com equipes de desenvolvimento, enquanto continuo me especializando no ecossistema Full Stack.
 
-### Habilidades
+## 🛠️ Habilidades Técnicas
 
-- 🖥️ **Linguagens de Programação**: Python, Java, JavaScript, HTML, CSS
-- 💻 **Tecnologias Web**: React, Node.js, Express, Bootstrap
-- 🛠️ **Ferramentas**: Git, GitHub, VS Code, Docker
-- 🗂️ **Bancos de Dados**: MySQL, SQLite
-- 🧑‍💻 **Outros**: Desenvolvimento Ágil, Testes Unitários, Design Responsivo
+### Linguagens e Backend
+* **Python**
+* **Java**
+* **Node.js & Express**
+* **JavaScript (ES6+)**
 
-### O que estou estudando atualmente:
-- **Desenvolvimento de Aplicações Full Stack**
-- **Banco de Dados NoSQL (MongoDB)**
-- **Frameworks de Frontend (ReactJS, VueJS)**
-- **Melhores práticas de código e arquitetura de software**
+### Frontend
+* **React.js**
+* **HTML5 & CSS3**
+* **Bootstrap**
+* **Design Responsivo**
 
-## Projetos
+### Ferramentas e DevOps
+* **Git & GitHub**
+* **VS Code**
+* **Docker**
+* **Metodologias Ágeis (Scrum/Kanban)**
 
-Aqui estão alguns dos projetos que estou desenvolvendo:
+### Banco de Dados
+* **Relacional:** MySQL, SQLite
+* **NoSQL:** MongoDB (Estudando)
 
-- [Nome do Projeto 1](link-do-projeto) - Descrição breve do projeto.
-- [Nome do Projeto 2](link-do-projeto) - Descrição breve do projeto.
-- [Nome do Projeto 3](link-do-projeto) - Descrição breve do projeto.
+## 📚 Foco de Estudos Atual
 
-## Como me encontrar
+Estou constantemente expandindo meu *stack* tecnológico. Meu foco no momento inclui:
+-   Aprofundamento em **Arquitetura de Software** e **Clean Code**.
+-   Desenvolvimento de aplicações **Full Stack** robustas.
+-   Domínio de **Bancos de Dados NoSQL** (MongoDB).
+-   Frameworks modernos como **Vue.js**.
 
-- [LinkedIn](link-do-linkedin)
-- [Portfólio](link-do-portfolio)
-- [Email](mailto:seuemail@dominio.com)
+## 💻 Projetos em Destaque
 
-Se você quiser conversar sobre tecnologia, desenvolvimento de sistemas, ou colaborar em projetos, fique à vontade para me chamar!
+Aqui estão alguns projetos que demonstram minhas habilidades na prática:
 
-## Licença
+| Projeto | Tecnologias | Descrição |
+| :--- | :--- | :--- |
+| **[Nome do Projeto 1](link-do-repo)** | *React, Node.js* | Uma breve descrição de uma linha sobre o que o projeto resolve. |
+| **[Nome do Projeto 2](link-do-repo)** | *Python, MySQL* | Uma breve descrição de uma linha sobre o que o projeto resolve. |
+| **[Nome do Projeto 3](link-do-repo)** | *Java* | Uma breve descrição de uma linha sobre o que o projeto resolve. |
 
-Este repositório está licenciado sob a [MIT License](LICENSE).
+## 📫 Como me encontrar
+
+Estou aberto a novas conexões e oportunidades.
+
+-   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](link-do-seu-linkedin)
+-   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@dominio.com)
+-   **Portfólio:** [Link para seu portfólio](link-do-portfolio)
+
+---
+*Este repositório está licenciado sob a [MIT License](LICENSE).*
