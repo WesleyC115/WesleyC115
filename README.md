@@ -38,7 +38,7 @@ Sistema full-stack para controle de entrada, saída e consulta de produtos em es
 
 ## 📫 Contato
 
-- **E-mail:** [seuemail@gmail.com](mailto:seuemail@gmail.com)
+- **E-mail:** [seuemail@gmail.com](mailto:wesley.moura03@hotmail.com)
 - **Linkedin:** 
 
 ---
