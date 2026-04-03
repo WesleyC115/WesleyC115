@@ -38,8 +38,8 @@ Sistema full-stack para controle de entrada, saída e consulta de produtos em es
 
 ## 📫 Contato
 
-- **E-mail:** [seuemail@hotmail.com](mailto:wesley.moura03@hotmail.com)
-- **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/wesley-moura-86867536b/)
+- **E-mail:** [wesley.moura03@hotmail.com](mailto:wesley.moura03@hotmail.com)
+- **LinkedIn:** [linkedin.com/in/wesley-moura](https://www.linkedin.com/in/wesley-moura-86867536b/)
 
 ---
 
